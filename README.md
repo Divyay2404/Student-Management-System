@@ -1,2 +1,2 @@
 # Student-Management-System
-Created using Python and Mysql
+It is a python-mysql connectivity based project on the topic"Student Management System"
